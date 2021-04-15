@@ -1,0 +1,39 @@
+[submodule "archlinux-appstream-data-pamac"]
+	path = archlinux-appstream-data-pamac
+	url = https://aur.archlinux.org/archlinux-appstream-data-pamac.git
+[submodule "pamac-aur"]
+	path = pamac-aur
+	url = https://aur.archlinux.org/pamac-aur.git
+[submodule "yay-bin"]
+	path = yay-bin
+	url = https://aur.archlinux.org/yay-bin.git
+[submodule "aic94xx-firmware"]
+	path = aic94xx-firmware
+	url = https://aur.archlinux.org/aic94xx-firmware.git
+[submodule "wd719x-firmware"]
+	path = wd719x-firmware
+	url = https://aur.archlinux.org/wd719x-firmware.git
+[submodule "upd72020x-fw"]
+	path = upd72020x-fw
+	url = https://aur.archlinux.org/upd72020x-fw.git
+[submodule "system76-acpi-dkms"]
+	path = system76-acpi-dkms
+	url = https://aur.archlinux.org/system76-acpi-dkms.git
+[submodule "system76-dkms"]
+	path = system76-dkms
+	url = https://aur.archlinux.org/system76-dkms.git
+[submodule "system76-firmware"]
+	path = system76-firmware
+	url = https://aur.archlinux.org/system76-firmware.git
+[submodule "system76-firmware-daemon"]
+	path = system76-firmware-daemon
+	url = https://aur.archlinux.org/system76-firmware-daemon.git
+[submodule "system76-io-dkms"]
+	path = system76-io-dkms
+	url = https://aur.archlinux.org/system76-io-dkms.git
+[submodule "system76-driver"]
+	path = system76-driver
+	url = https://aur.archlinux.org/system76-driver.git
+[submodule "system76-power"]
+	path = system76-power
+	url = https://aur.archlinux.org/system76-power.git
